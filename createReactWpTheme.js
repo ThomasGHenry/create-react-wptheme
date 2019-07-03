@@ -59,7 +59,7 @@ const scriptsFromNpm = function() {
     //path: "@devloco/react-scripts-wptheme",
     //console.log('SCRIPTS FROM NPM');
     return {
-        path: "@devloco/react-scripts-wptheme",
+        path: "@ThomasGHenry/react-scripts-wptheme",
         callback: function() {}
     };
 };
